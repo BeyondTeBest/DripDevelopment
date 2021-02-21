@@ -66,7 +66,6 @@ router.get('/shuffle', async (req, res) => {
  */
 router.get('/reverse', async (req, res) => {
 
-    // https://discord.com/channels/767569427935133736/779441456464003122/808357425341661205
 
     const content = req.urlParams.content;
 
